@@ -52,8 +52,8 @@ jobs:
     - name: Commit and Push changes
       run: |
         echo $(date +'%Y%m%d%H') > date.txt
-        git config --local user.email "admin@adysec.com"
-        git config --local user.name "adysec"
+        git config --local user.email "yemura3@gmail.com"
+        git config --local user.name "AWDSCAN"
         git add .
         git commit -am "$(date +'%Y%m%d')"
         git push -v --progress
