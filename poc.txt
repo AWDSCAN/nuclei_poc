@@ -22443,6 +22443,7 @@
 ./poc_all/cve/CVE-2000-0760_14.yaml
 ./poc_all/cve/CVE-2000-0760_140.yaml
 ./poc_all/cve/CVE-2000-0760_141.yaml
+./poc_all/cve/CVE-2000-0760_142.yaml
 ./poc_all/cve/CVE-2000-0760_15.yaml
 ./poc_all/cve/CVE-2000-0760_16.yaml
 ./poc_all/cve/CVE-2000-0760_17.yaml
@@ -22661,6 +22662,7 @@
 ./poc_all/cve/CVE-2001-0537_84.yaml
 ./poc_all/cve/CVE-2001-0537_85.yaml
 ./poc_all/cve/CVE-2001-0537_86.yaml
+./poc_all/cve/CVE-2001-0537_87.yaml
 ./poc_all/cve/CVE-2001-0537_9.yaml
 ./poc_all/cve/CVE-2001-1473.yaml
 ./poc_all/cve/CVE-2001-1473_1.yaml
@@ -24168,6 +24170,7 @@
 ./poc_all/cve/CVE-2004-1965_180.yaml
 ./poc_all/cve/CVE-2004-1965_181.yaml
 ./poc_all/cve/CVE-2004-1965_182.yaml
+./poc_all/cve/CVE-2004-1965_183.yaml
 ./poc_all/cve/CVE-2004-1965_19.yaml
 ./poc_all/cve/CVE-2004-1965_2.yaml
 ./poc_all/cve/CVE-2004-1965_20.yaml
@@ -25533,6 +25536,7 @@
 ./poc_all/cve/CVE-2005-3634_176.yaml
 ./poc_all/cve/CVE-2005-3634_177.yaml
 ./poc_all/cve/CVE-2005-3634_178.yaml
+./poc_all/cve/CVE-2005-3634_179.yaml
 ./poc_all/cve/CVE-2005-3634_18.yaml
 ./poc_all/cve/CVE-2005-3634_19.yaml
 ./poc_all/cve/CVE-2005-3634_2.yaml
@@ -28481,6 +28485,7 @@
 ./poc_all/cve/CVE-2008-1059_16.yaml
 ./poc_all/cve/CVE-2008-1059_160.yaml
 ./poc_all/cve/CVE-2008-1059_161.yaml
+./poc_all/cve/CVE-2008-1059_162.yaml
 ./poc_all/cve/CVE-2008-1059_17.yaml
 ./poc_all/cve/CVE-2008-1059_18.yaml
 ./poc_all/cve/CVE-2008-1059_19.yaml
@@ -28704,6 +28709,7 @@
 ./poc_all/cve/CVE-2008-1061_172.yaml
 ./poc_all/cve/CVE-2008-1061_173.yaml
 ./poc_all/cve/CVE-2008-1061_174.yaml
+./poc_all/cve/CVE-2008-1061_175.yaml
 ./poc_all/cve/CVE-2008-1061_18.yaml
 ./poc_all/cve/CVE-2008-1061_19.yaml
 ./poc_all/cve/CVE-2008-1061_2.yaml
@@ -28891,6 +28897,7 @@
 ./poc_all/cve/CVE-2008-1547_143.yaml
 ./poc_all/cve/CVE-2008-1547_144.yaml
 ./poc_all/cve/CVE-2008-1547_145.yaml
+./poc_all/cve/CVE-2008-1547_146.yaml
 ./poc_all/cve/CVE-2008-1547_15.yaml
 ./poc_all/cve/CVE-2008-1547_16.yaml
 ./poc_all/cve/CVE-2008-1547_17.yaml
@@ -29104,6 +29111,7 @@
 ./poc_all/cve/CVE-2008-2052_70.yaml
 ./poc_all/cve/CVE-2008-2052_71.yaml
 ./poc_all/cve/CVE-2008-2052_72.yaml
+./poc_all/cve/CVE-2008-2052_73.yaml
 ./poc_all/cve/CVE-2008-2052_8.yaml
 ./poc_all/cve/CVE-2008-2052_8_1.yaml
 ./poc_all/cve/CVE-2008-2052_9.yaml
@@ -30895,6 +30903,7 @@
 ./poc_all/cve/CVE-2008-6465_182.yaml
 ./poc_all/cve/CVE-2008-6465_183.yaml
 ./poc_all/cve/CVE-2008-6465_184.yaml
+./poc_all/cve/CVE-2008-6465_185.yaml
 ./poc_all/cve/CVE-2008-6465_19.yaml
 ./poc_all/cve/CVE-2008-6465_2.yaml
 ./poc_all/cve/CVE-2008-6465_20.yaml
@@ -31305,6 +31314,7 @@
 ./poc_all/cve/CVE-2008-6982_18.yaml
 ./poc_all/cve/CVE-2008-6982_180.yaml
 ./poc_all/cve/CVE-2008-6982_181.yaml
+./poc_all/cve/CVE-2008-6982_182.yaml
 ./poc_all/cve/CVE-2008-6982_19.yaml
 ./poc_all/cve/CVE-2008-6982_1_1.yaml
 ./poc_all/cve/CVE-2008-6982_2.yaml
@@ -31531,6 +31541,7 @@
 ./poc_all/cve/CVE-2008-7269_172.yaml
 ./poc_all/cve/CVE-2008-7269_173.yaml
 ./poc_all/cve/CVE-2008-7269_174.yaml
+./poc_all/cve/CVE-2008-7269_175.yaml
 ./poc_all/cve/CVE-2008-7269_18.yaml
 ./poc_all/cve/CVE-2008-7269_19.yaml
 ./poc_all/cve/CVE-2008-7269_2.yaml
@@ -31750,6 +31761,7 @@
 ./poc_all/cve/CVE-2009-0347_176.yaml
 ./poc_all/cve/CVE-2009-0347_177.yaml
 ./poc_all/cve/CVE-2009-0347_178.yaml
+./poc_all/cve/CVE-2009-0347_179.yaml
 ./poc_all/cve/CVE-2009-0347_18.yaml
 ./poc_all/cve/CVE-2009-0347_19.yaml
 ./poc_all/cve/CVE-2009-0347_2.yaml
@@ -42957,6 +42969,7 @@
 ./poc_all/cve/CVE-2010-1586_19.yaml
 ./poc_all/cve/CVE-2010-1586_190.yaml
 ./poc_all/cve/CVE-2010-1586_191.yaml
+./poc_all/cve/CVE-2010-1586_192.yaml
 ./poc_all/cve/CVE-2010-1586_2.yaml
 ./poc_all/cve/CVE-2010-1586_20.yaml
 ./poc_all/cve/CVE-2010-1586_21.yaml
@@ -55066,6 +55079,7 @@
 ./poc_all/cve/CVE-2011-3600_136.yaml
 ./poc_all/cve/CVE-2011-3600_137.yaml
 ./poc_all/cve/CVE-2011-3600_138.yaml
+./poc_all/cve/CVE-2011-3600_139.yaml
 ./poc_all/cve/CVE-2011-3600_14.yaml
 ./poc_all/cve/CVE-2011-3600_15.yaml
 ./poc_all/cve/CVE-2011-3600_15_1.yaml
@@ -55902,6 +55916,7 @@
 ./poc_all/cve/CVE-2011-4640_182.yaml
 ./poc_all/cve/CVE-2011-4640_183.yaml
 ./poc_all/cve/CVE-2011-4640_184.yaml
+./poc_all/cve/CVE-2011-4640_185.yaml
 ./poc_all/cve/CVE-2011-4640_19.yaml
 ./poc_all/cve/CVE-2011-4640_2.yaml
 ./poc_all/cve/CVE-2011-4640_20.yaml
@@ -57166,6 +57181,7 @@
 ./poc_all/cve/CVE-2011-5252_164.yaml
 ./poc_all/cve/CVE-2011-5252_165.yaml
 ./poc_all/cve/CVE-2011-5252_166.yaml
+./poc_all/cve/CVE-2011-5252_167.yaml
 ./poc_all/cve/CVE-2011-5252_17.yaml
 ./poc_all/cve/CVE-2011-5252_18.yaml
 ./poc_all/cve/CVE-2011-5252_19.yaml
@@ -58603,6 +58619,7 @@
 ./poc_all/cve/CVE-2012-10018_16.yaml
 ./poc_all/cve/CVE-2012-10018_160.yaml
 ./poc_all/cve/CVE-2012-10018_161.yaml
+./poc_all/cve/CVE-2012-10018_162.yaml
 ./poc_all/cve/CVE-2012-10018_17.yaml
 ./poc_all/cve/CVE-2012-10018_18.yaml
 ./poc_all/cve/CVE-2012-10018_19.yaml
@@ -59766,6 +59783,7 @@
 ./poc_all/cve/CVE-2012-4032_176.yaml
 ./poc_all/cve/CVE-2012-4032_177.yaml
 ./poc_all/cve/CVE-2012-4032_178.yaml
+./poc_all/cve/CVE-2012-4032_179.yaml
 ./poc_all/cve/CVE-2012-4032_18.yaml
 ./poc_all/cve/CVE-2012-4032_19.yaml
 ./poc_all/cve/CVE-2012-4032_2.yaml
@@ -61281,6 +61299,7 @@
 ./poc_all/cve/CVE-2012-4982_179.yaml
 ./poc_all/cve/CVE-2012-4982_18.yaml
 ./poc_all/cve/CVE-2012-4982_180.yaml
+./poc_all/cve/CVE-2012-4982_181.yaml
 ./poc_all/cve/CVE-2012-4982_19.yaml
 ./poc_all/cve/CVE-2012-4982_1_1.yaml
 ./poc_all/cve/CVE-2012-4982_2.yaml
@@ -61491,6 +61510,7 @@
 ./poc_all/cve/CVE-2012-5321_164.yaml
 ./poc_all/cve/CVE-2012-5321_165.yaml
 ./poc_all/cve/CVE-2012-5321_166.yaml
+./poc_all/cve/CVE-2012-5321_167.yaml
 ./poc_all/cve/CVE-2012-5321_17.yaml
 ./poc_all/cve/CVE-2012-5321_18.yaml
 ./poc_all/cve/CVE-2012-5321_19.yaml
@@ -61941,6 +61961,7 @@
 ./poc_all/cve/CVE-2012-6499_151.yaml
 ./poc_all/cve/CVE-2012-6499_152.yaml
 ./poc_all/cve/CVE-2012-6499_153.yaml
+./poc_all/cve/CVE-2012-6499_154.yaml
 ./poc_all/cve/CVE-2012-6499_16.yaml
 ./poc_all/cve/CVE-2012-6499_17.yaml
 ./poc_all/cve/CVE-2012-6499_18.yaml
@@ -63037,6 +63058,7 @@
 ./poc_all/cve/CVE-2013-2621_178.yaml
 ./poc_all/cve/CVE-2013-2621_179.yaml
 ./poc_all/cve/CVE-2013-2621_18.yaml
+./poc_all/cve/CVE-2013-2621_180.yaml
 ./poc_all/cve/CVE-2013-2621_19.yaml
 ./poc_all/cve/CVE-2013-2621_2.yaml
 ./poc_all/cve/CVE-2013-2621_20.yaml
@@ -64188,6 +64210,7 @@
 ./poc_all/cve/CVE-2013-4982_145.yaml
 ./poc_all/cve/CVE-2013-4982_146.yaml
 ./poc_all/cve/CVE-2013-4982_147.yaml
+./poc_all/cve/CVE-2013-4982_148.yaml
 ./poc_all/cve/CVE-2013-4982_15.yaml
 ./poc_all/cve/CVE-2013-4982_16.yaml
 ./poc_all/cve/CVE-2013-4982_17.yaml
@@ -65284,6 +65307,7 @@
 ./poc_all/cve/CVE-2013-7285_140.yaml
 ./poc_all/cve/CVE-2013-7285_141.yaml
 ./poc_all/cve/CVE-2013-7285_142.yaml
+./poc_all/cve/CVE-2013-7285_143.yaml
 ./poc_all/cve/CVE-2013-7285_15.yaml
 ./poc_all/cve/CVE-2013-7285_16.yaml
 ./poc_all/cve/CVE-2013-7285_17.yaml
@@ -65619,6 +65643,7 @@
 ./poc_all/cve/CVE-2014-100004_19.yaml
 ./poc_all/cve/CVE-2014-100004_190.yaml
 ./poc_all/cve/CVE-2014-100004_191.yaml
+./poc_all/cve/CVE-2014-100004_192.yaml
 ./poc_all/cve/CVE-2014-100004_2.yaml
 ./poc_all/cve/CVE-2014-100004_20.yaml
 ./poc_all/cve/CVE-2014-100004_21.yaml
@@ -460162,6 +460187,7 @@
 ./poc_all/cve/CVE-2023-5914_123.yaml
 ./poc_all/cve/CVE-2023-5914_124.yaml
 ./poc_all/cve/CVE-2023-5914_125.yaml
+./poc_all/cve/CVE-2023-5914_126.yaml
 ./poc_all/cve/CVE-2023-5914_13.yaml
 ./poc_all/cve/CVE-2023-5914_14.yaml
 ./poc_all/cve/CVE-2023-5914_15.yaml
@@ -541328,6 +541354,7 @@
 ./poc_all/cve/CVE-2024-4325_159.yaml
 ./poc_all/cve/CVE-2024-4325_16.yaml
 ./poc_all/cve/CVE-2024-4325_160.yaml
+./poc_all/cve/CVE-2024-4325_161.yaml
 ./poc_all/cve/CVE-2024-4325_17.yaml
 ./poc_all/cve/CVE-2024-4325_18.yaml
 ./poc_all/cve/CVE-2024-4325_19.yaml
@@ -701242,6 +701269,7 @@
 ./poc_all/detect/txt-service-detect_5.yaml
 ./poc_all/detect/txt-service-detect_5_1.yaml
 ./poc_all/detect/txt-service-detect_6.yaml
+./poc_all/detect/txt-service-detect_7.yaml
 ./poc_all/detect/tyan-logo-detect.yaml
 ./poc_all/detect/tyan-logo-detect_1.yaml
 ./poc_all/detect/tyan-rmm-ui-detect.yaml
@@ -712937,6 +712965,7 @@
 ./poc_all/joomla/joomla-detect_3.yaml
 ./poc_all/joomla/joomla-easyshop-lfi.yaml
 ./poc_all/joomla/joomla-easyshop-lfi_1.yaml
+./poc_all/joomla/joomla-easyshop-lfi_2.yaml
 ./poc_all/joomla/joomla-file-listing-8379.yaml
 ./poc_all/joomla/joomla-file-listing-8379_1.yaml
 ./poc_all/joomla/joomla-file-listing-8380.yaml
@@ -859792,6 +859821,7 @@
 ./poc_all/sql_injection/groomify-sqli.yaml
 ./poc_all/sql_injection/halo-tism-sqli.yaml
 ./poc_all/sql_injection/hasura-graphql-psql-exec-7899.yaml
+./poc_all/sql_injection/header-based-blind-sqli3.yaml
 ./poc_all/sql_injection/header-blind-sql-injection.yaml
 ./poc_all/sql_injection/header-blind-sql-injection_1.yaml
 ./poc_all/sql_injection/hjsoft-eHR-showmediainfo-sqli.yaml
