@@ -925052,6 +925052,7 @@
 ./poc_high_quality/sql_injection/fanwei-upgrade-sqli.yaml
 ./poc_high_quality/sql_injection/glodon-linkworks-sql-GetIMDictionary.yaml
 ./poc_high_quality/sql_injection/hasura-graphql-psql-exec-7899.yaml
+./poc_high_quality/sql_injection/header-based-blind-sqli3.yaml
 ./poc_high_quality/sql_injection/header-blind-sql-injection.yaml
 ./poc_high_quality/sql_injection/huigao-oa-sqli.yaml
 ./poc_high_quality/sql_injection/ioffice-oa-sqli.yaml
