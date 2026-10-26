@@ -267128,6 +267128,7 @@
 ./poc_all/cve/CVE-2021-41773_51.yaml
 ./poc_all/cve/CVE-2021-41773_52.yaml
 ./poc_all/cve/CVE-2021-41773_53.yaml
+./poc_all/cve/CVE-2021-41773_54.yaml
 ./poc_all/cve/CVE-2021-41773_6.yaml
 ./poc_all/cve/CVE-2021-41773_7.yaml
 ./poc_all/cve/CVE-2021-41773_8.yaml
