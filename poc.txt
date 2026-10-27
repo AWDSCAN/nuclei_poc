@@ -17817,6 +17817,7 @@
 ./poc_all/aws/metadata-aws-8812_2.yaml
 ./poc_all/aws/metadata-aws.yaml
 ./poc_all/aws/metadata-aws_1.yaml
+./poc_all/aws/metadata-aws_10.yaml
 ./poc_all/aws/metadata-aws_2.yaml
 ./poc_all/aws/metadata-aws_2_1.yaml
 ./poc_all/aws/metadata-aws_3.yaml
@@ -22664,6 +22665,7 @@
 ./poc_all/cve/CVE-2001-0537_85.yaml
 ./poc_all/cve/CVE-2001-0537_86.yaml
 ./poc_all/cve/CVE-2001-0537_87.yaml
+./poc_all/cve/CVE-2001-0537_88.yaml
 ./poc_all/cve/CVE-2001-0537_9.yaml
 ./poc_all/cve/CVE-2001-1473.yaml
 ./poc_all/cve/CVE-2001-1473_1.yaml
@@ -24172,6 +24174,7 @@
 ./poc_all/cve/CVE-2004-1965_181.yaml
 ./poc_all/cve/CVE-2004-1965_182.yaml
 ./poc_all/cve/CVE-2004-1965_183.yaml
+./poc_all/cve/CVE-2004-1965_184.yaml
 ./poc_all/cve/CVE-2004-1965_19.yaml
 ./poc_all/cve/CVE-2004-1965_2.yaml
 ./poc_all/cve/CVE-2004-1965_20.yaml
@@ -28488,6 +28491,7 @@
 ./poc_all/cve/CVE-2008-1059_160.yaml
 ./poc_all/cve/CVE-2008-1059_161.yaml
 ./poc_all/cve/CVE-2008-1059_162.yaml
+./poc_all/cve/CVE-2008-1059_163.yaml
 ./poc_all/cve/CVE-2008-1059_17.yaml
 ./poc_all/cve/CVE-2008-1059_18.yaml
 ./poc_all/cve/CVE-2008-1059_19.yaml
@@ -28712,6 +28716,7 @@
 ./poc_all/cve/CVE-2008-1061_173.yaml
 ./poc_all/cve/CVE-2008-1061_174.yaml
 ./poc_all/cve/CVE-2008-1061_175.yaml
+./poc_all/cve/CVE-2008-1061_176.yaml
 ./poc_all/cve/CVE-2008-1061_18.yaml
 ./poc_all/cve/CVE-2008-1061_19.yaml
 ./poc_all/cve/CVE-2008-1061_2.yaml
@@ -29114,6 +29119,7 @@
 ./poc_all/cve/CVE-2008-2052_71.yaml
 ./poc_all/cve/CVE-2008-2052_72.yaml
 ./poc_all/cve/CVE-2008-2052_73.yaml
+./poc_all/cve/CVE-2008-2052_74.yaml
 ./poc_all/cve/CVE-2008-2052_8.yaml
 ./poc_all/cve/CVE-2008-2052_8_1.yaml
 ./poc_all/cve/CVE-2008-2052_9.yaml
@@ -30911,6 +30917,7 @@
 ./poc_all/cve/CVE-2008-6465_183.yaml
 ./poc_all/cve/CVE-2008-6465_184.yaml
 ./poc_all/cve/CVE-2008-6465_185.yaml
+./poc_all/cve/CVE-2008-6465_186.yaml
 ./poc_all/cve/CVE-2008-6465_19.yaml
 ./poc_all/cve/CVE-2008-6465_2.yaml
 ./poc_all/cve/CVE-2008-6465_20.yaml
@@ -31322,6 +31329,7 @@
 ./poc_all/cve/CVE-2008-6982_180.yaml
 ./poc_all/cve/CVE-2008-6982_181.yaml
 ./poc_all/cve/CVE-2008-6982_182.yaml
+./poc_all/cve/CVE-2008-6982_183.yaml
 ./poc_all/cve/CVE-2008-6982_19.yaml
 ./poc_all/cve/CVE-2008-6982_1_1.yaml
 ./poc_all/cve/CVE-2008-6982_2.yaml
@@ -31549,6 +31557,7 @@
 ./poc_all/cve/CVE-2008-7269_173.yaml
 ./poc_all/cve/CVE-2008-7269_174.yaml
 ./poc_all/cve/CVE-2008-7269_175.yaml
+./poc_all/cve/CVE-2008-7269_176.yaml
 ./poc_all/cve/CVE-2008-7269_18.yaml
 ./poc_all/cve/CVE-2008-7269_19.yaml
 ./poc_all/cve/CVE-2008-7269_2.yaml
@@ -35179,6 +35188,7 @@
 ./poc_all/cve/CVE-2010-0696_98.yaml
 ./poc_all/cve/CVE-2010-0696_99.yaml
 ./poc_all/cve/CVE-2010-0738.yaml
+./poc_all/cve/CVE-2010-0738_1.yaml
 ./poc_all/cve/CVE-2010-0759.yaml
 ./poc_all/cve/CVE-2010-0759_1.yaml
 ./poc_all/cve/CVE-2010-0759_10.yaml
@@ -39527,6 +39537,7 @@
 ./poc_all/cve/CVE-2010-1354_97.yaml
 ./poc_all/cve/CVE-2010-1354_98.yaml
 ./poc_all/cve/CVE-2010-1354_99.yaml
+./poc_all/cve/CVE-2010-1428.yaml
 ./poc_all/cve/CVE-2010-1429.yaml
 ./poc_all/cve/CVE-2010-1429_1.yaml
 ./poc_all/cve/CVE-2010-1429_10.yaml
@@ -39589,6 +39600,7 @@
 ./poc_all/cve/CVE-2010-1429_151.yaml
 ./poc_all/cve/CVE-2010-1429_152.yaml
 ./poc_all/cve/CVE-2010-1429_153.yaml
+./poc_all/cve/CVE-2010-1429_154.yaml
 ./poc_all/cve/CVE-2010-1429_16.yaml
 ./poc_all/cve/CVE-2010-1429_17.yaml
 ./poc_all/cve/CVE-2010-1429_18.yaml
@@ -43034,6 +43046,7 @@
 ./poc_all/cve/CVE-2010-1586_190.yaml
 ./poc_all/cve/CVE-2010-1586_191.yaml
 ./poc_all/cve/CVE-2010-1586_192.yaml
+./poc_all/cve/CVE-2010-1586_193.yaml
 ./poc_all/cve/CVE-2010-1586_2.yaml
 ./poc_all/cve/CVE-2010-1586_20.yaml
 ./poc_all/cve/CVE-2010-1586_21.yaml
@@ -57317,6 +57330,7 @@
 ./poc_all/cve/CVE-2011-5252_165.yaml
 ./poc_all/cve/CVE-2011-5252_166.yaml
 ./poc_all/cve/CVE-2011-5252_167.yaml
+./poc_all/cve/CVE-2011-5252_168.yaml
 ./poc_all/cve/CVE-2011-5252_17.yaml
 ./poc_all/cve/CVE-2011-5252_18.yaml
 ./poc_all/cve/CVE-2011-5252_19.yaml
@@ -57823,6 +57837,7 @@
 ./poc_all/cve/CVE-2012-0394_80.yaml
 ./poc_all/cve/CVE-2012-0394_81.yaml
 ./poc_all/cve/CVE-2012-0394_82.yaml
+./poc_all/cve/CVE-2012-0394_83.yaml
 ./poc_all/cve/CVE-2012-0394_9.yaml
 ./poc_all/cve/CVE-2012-0694.yaml
 ./poc_all/cve/CVE-2012-0785.yaml
@@ -61451,6 +61466,7 @@
 ./poc_all/cve/CVE-2012-4982_18.yaml
 ./poc_all/cve/CVE-2012-4982_180.yaml
 ./poc_all/cve/CVE-2012-4982_181.yaml
+./poc_all/cve/CVE-2012-4982_182.yaml
 ./poc_all/cve/CVE-2012-4982_19.yaml
 ./poc_all/cve/CVE-2012-4982_1_1.yaml
 ./poc_all/cve/CVE-2012-4982_2.yaml
@@ -65467,6 +65483,7 @@
 ./poc_all/cve/CVE-2013-7285_141.yaml
 ./poc_all/cve/CVE-2013-7285_142.yaml
 ./poc_all/cve/CVE-2013-7285_143.yaml
+./poc_all/cve/CVE-2013-7285_144.yaml
 ./poc_all/cve/CVE-2013-7285_15.yaml
 ./poc_all/cve/CVE-2013-7285_16.yaml
 ./poc_all/cve/CVE-2013-7285_17.yaml
@@ -72634,6 +72651,7 @@
 ./poc_all/cve/CVE-2014-6287_40.yaml
 ./poc_all/cve/CVE-2014-6287_41.yaml
 ./poc_all/cve/CVE-2014-6287_42.yaml
+./poc_all/cve/CVE-2014-6287_43.yaml
 ./poc_all/cve/CVE-2014-6287_5.yaml
 ./poc_all/cve/CVE-2014-6287_6.yaml
 ./poc_all/cve/CVE-2014-6287_7.yaml
@@ -73053,6 +73071,7 @@
 ./poc_all/cve/CVE-2014-8676_113.yaml
 ./poc_all/cve/CVE-2014-8676_114.yaml
 ./poc_all/cve/CVE-2014-8676_115.yaml
+./poc_all/cve/CVE-2014-8676_116.yaml
 ./poc_all/cve/CVE-2014-8676_12.yaml
 ./poc_all/cve/CVE-2014-8676_13.yaml
 ./poc_all/cve/CVE-2014-8676_14.yaml
@@ -74170,6 +74189,7 @@
 ./poc_all/cve/CVE-2014-9180_182.yaml
 ./poc_all/cve/CVE-2014-9180_183.yaml
 ./poc_all/cve/CVE-2014-9180_184.yaml
+./poc_all/cve/CVE-2014-9180_185.yaml
 ./poc_all/cve/CVE-2014-9180_19.yaml
 ./poc_all/cve/CVE-2014-9180_2.yaml
 ./poc_all/cve/CVE-2014-9180_20.yaml
@@ -78124,6 +78144,7 @@
 ./poc_all/cve/CVE-2015-20067_18.yaml
 ./poc_all/cve/CVE-2015-20067_180.yaml
 ./poc_all/cve/CVE-2015-20067_181.yaml
+./poc_all/cve/CVE-2015-20067_182.yaml
 ./poc_all/cve/CVE-2015-20067_19.yaml
 ./poc_all/cve/CVE-2015-20067_2.yaml
 ./poc_all/cve/CVE-2015-20067_20.yaml
@@ -78893,6 +78914,7 @@
 ./poc_all/cve/CVE-2015-2196_172.yaml
 ./poc_all/cve/CVE-2015-2196_173.yaml
 ./poc_all/cve/CVE-2015-2196_174.yaml
+./poc_all/cve/CVE-2015-2196_175.yaml
 ./poc_all/cve/CVE-2015-2196_18.yaml
 ./poc_all/cve/CVE-2015-2196_19.yaml
 ./poc_all/cve/CVE-2015-2196_1_1.yaml
@@ -79196,6 +79218,7 @@
 ./poc_all/cve/CVE-2015-2755_182.yaml
 ./poc_all/cve/CVE-2015-2755_183.yaml
 ./poc_all/cve/CVE-2015-2755_184.yaml
+./poc_all/cve/CVE-2015-2755_185.yaml
 ./poc_all/cve/CVE-2015-2755_19.yaml
 ./poc_all/cve/CVE-2015-2755_2.yaml
 ./poc_all/cve/CVE-2015-2755_20.yaml
@@ -79655,6 +79678,7 @@
 ./poc_all/cve/CVE-2015-2863_155.yaml
 ./poc_all/cve/CVE-2015-2863_156.yaml
 ./poc_all/cve/CVE-2015-2863_157.yaml
+./poc_all/cve/CVE-2015-2863_158.yaml
 ./poc_all/cve/CVE-2015-2863_16.yaml
 ./poc_all/cve/CVE-2015-2863_17.yaml
 ./poc_all/cve/CVE-2015-2863_18.yaml
@@ -79765,6 +79789,7 @@
 ./poc_all/cve/CVE-2015-2996.yaml
 ./poc_all/cve/CVE-2015-2996_1.yaml
 ./poc_all/cve/CVE-2015-2996_10.yaml
+./poc_all/cve/CVE-2015-2996_100.yaml
 ./poc_all/cve/CVE-2015-2996_11.yaml
 ./poc_all/cve/CVE-2015-2996_12.yaml
 ./poc_all/cve/CVE-2015-2996_13.yaml
@@ -79943,6 +79968,7 @@
 ./poc_all/cve/CVE-2015-3035_71.yaml
 ./poc_all/cve/CVE-2015-3035_72.yaml
 ./poc_all/cve/CVE-2015-3035_73.yaml
+./poc_all/cve/CVE-2015-3035_74.yaml
 ./poc_all/cve/CVE-2015-3035_8.yaml
 ./poc_all/cve/CVE-2015-3035_9.yaml
 ./poc_all/cve/CVE-2015-3173-1a326eb3e821c26ab4cc717de2e086d9.yaml
@@ -81037,6 +81063,7 @@
 ./poc_all/cve/CVE-2015-4063_174.yaml
 ./poc_all/cve/CVE-2015-4063_175.yaml
 ./poc_all/cve/CVE-2015-4063_176.yaml
+./poc_all/cve/CVE-2015-4063_177.yaml
 ./poc_all/cve/CVE-2015-4063_18.yaml
 ./poc_all/cve/CVE-2015-4063_19.yaml
 ./poc_all/cve/CVE-2015-4063_1_1.yaml
@@ -84488,6 +84515,7 @@
 ./poc_all/cve/CVE-2015-7450_9.yaml
 ./poc_all/cve/CVE-2015-7501.yaml
 ./poc_all/cve/CVE-2015-7501_1.yaml
+./poc_all/cve/CVE-2015-7501_10.yaml
 ./poc_all/cve/CVE-2015-7501_2.yaml
 ./poc_all/cve/CVE-2015-7501_3.yaml
 ./poc_all/cve/CVE-2015-7501_4.yaml
@@ -85825,6 +85853,7 @@
 ./poc_all/cve/CVE-2015-9312_175.yaml
 ./poc_all/cve/CVE-2015-9312_176.yaml
 ./poc_all/cve/CVE-2015-9312_177.yaml
+./poc_all/cve/CVE-2015-9312_178.yaml
 ./poc_all/cve/CVE-2015-9312_18.yaml
 ./poc_all/cve/CVE-2015-9312_19.yaml
 ./poc_all/cve/CVE-2015-9312_1_1.yaml
@@ -86039,6 +86068,7 @@
 ./poc_all/cve/CVE-2015-9323_126.yaml
 ./poc_all/cve/CVE-2015-9323_127.yaml
 ./poc_all/cve/CVE-2015-9323_128.yaml
+./poc_all/cve/CVE-2015-9323_129.yaml
 ./poc_all/cve/CVE-2015-9323_13.yaml
 ./poc_all/cve/CVE-2015-9323_14.yaml
 ./poc_all/cve/CVE-2015-9323_15.yaml
@@ -543083,6 +543113,7 @@
 ./poc_all/cve/CVE-2024-4325_16.yaml
 ./poc_all/cve/CVE-2024-4325_160.yaml
 ./poc_all/cve/CVE-2024-4325_161.yaml
+./poc_all/cve/CVE-2024-4325_162.yaml
 ./poc_all/cve/CVE-2024-4325_17.yaml
 ./poc_all/cve/CVE-2024-4325_18.yaml
 ./poc_all/cve/CVE-2024-4325_19.yaml
@@ -678845,6 +678876,7 @@
 ./poc_all/cve/CVE-2026-44578_58.yaml
 ./poc_all/cve/CVE-2026-44578_59.yaml
 ./poc_all/cve/CVE-2026-44578_6.yaml
+./poc_all/cve/CVE-2026-44578_60.yaml
 ./poc_all/cve/CVE-2026-44578_7.yaml
 ./poc_all/cve/CVE-2026-44578_8.yaml
 ./poc_all/cve/CVE-2026-44578_9.yaml
@@ -702312,6 +702344,7 @@
 ./poc_all/detect/soa-detect_27.yaml
 ./poc_all/detect/soa-detect_28.yaml
 ./poc_all/detect/soa-detect_29.yaml
+./poc_all/detect/soa-detect_2_1.yaml
 ./poc_all/detect/soa-detect_3.yaml
 ./poc_all/detect/soa-detect_30.yaml
 ./poc_all/detect/soa-detect_31.yaml
@@ -703009,6 +703042,7 @@
 ./poc_all/detect/txt-service-detect_3.yaml
 ./poc_all/detect/txt-service-detect_3_1.yaml
 ./poc_all/detect/txt-service-detect_4.yaml
+./poc_all/detect/txt-service-detect_4_1.yaml
 ./poc_all/detect/txt-service-detect_5.yaml
 ./poc_all/detect/txt-service-detect_5_1.yaml
 ./poc_all/detect/txt-service-detect_6.yaml
@@ -708244,6 +708278,7 @@
 ./poc_all/gcloud/gcloudignore-file-exposure.yaml
 ./poc_all/gcloud/gcloudignore-file.yaml
 ./poc_all/gcloud/gcloudignore-file_1.yaml
+./poc_all/gcloud/gcloudignore-file_2.yaml
 ./poc_all/gcloud/gcp-credentials.yaml
 ./poc_all/gcloud/gcp-phish.yaml
 ./poc_all/gcloud/gcp-possible-ssrf.yaml
@@ -709118,6 +709153,7 @@
 ./poc_all/git/metadata-digitalocean_5.yaml
 ./poc_all/git/metadata-digitalocean_6.yaml
 ./poc_all/git/metadata-digitalocean_7.yaml
+./poc_all/git/metadata-digitalocean_8.yaml
 ./poc_all/git/pixter-image-digital-license-7863117178d4065bffe305feb3c8b8f0.yaml
 ./poc_all/git/pixter_image_digital_license-4d0a3cad-baa6-4de3-9420-c2d575dfd868.yaml
 ./poc_all/git/sell-digital-downloads-87563ba9f4e5a4f19dd3b8fe05213c69.yaml
@@ -710557,6 +710593,7 @@
 ./poc_all/google/metadata-google_4_1.yaml
 ./poc_all/google/metadata-google_5.yaml
 ./poc_all/google/metadata-google_6.yaml
+./poc_all/google/metadata-google_7.yaml
 ./poc_all/google/miniorange-google-authenticator.yaml
 ./poc_all/google/miniorange_google_authenticator-22b539c8-a6f1-4543-9e63-08ee4d468ee0.yaml
 ./poc_all/google/miniorange_google_authenticator-6bfc0128-a8ef-4bb9-b5c8-7003f270aa36.yaml
@@ -724835,6 +724872,7 @@
 ./poc_all/oracle/metadata-oracle_5.yaml
 ./poc_all/oracle/metadata-oracle_6.yaml
 ./poc_all/oracle/metadata-oracle_7.yaml
+./poc_all/oracle/metadata-oracle_8.yaml
 ./poc_all/oracle/norse-runes-oracle-227387b5af0046269c1ec0db14126be6.yaml
 ./poc_all/oracle/norse-runes-oracle-d7bddaac3605e844234a3b727d14a381.yaml
 ./poc_all/oracle/norse-runes-oracle.yaml
@@ -747001,6 +747039,7 @@
 ./poc_all/other/condition-flow-no-operators.yaml
 ./poc_all/other/condition-flow-no-operators_1.yaml
 ./poc_all/other/condition-flow.yaml
+./poc_all/other/conditional-flow.yaml
 ./poc_all/other/conditional-menus.yaml
 ./poc_all/other/conditional-menus_1.yaml
 ./poc_all/other/conditional_menus-7f4cf85d-6105-4f7d-b4a0-18a3513a93a8.yaml
@@ -755156,6 +755195,7 @@
 ./poc_all/other/dynamic-url-seo-a37ddd2b5d572321fa77eebf9d729ae4.yaml
 ./poc_all/other/dynamic-url-seo.yaml
 ./poc_all/other/dynamic-values.yaml
+./poc_all/other/dynamic-values_1.yaml
 ./poc_all/other/dynamic-visibility-for-elementor-a736c63ec887d4c4f788049ff0554e43.yaml
 ./poc_all/other/dynamic-visibility-for-elementor-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc_all/other/dynamic-visibility-for-elementor.yaml
@@ -760219,6 +760259,7 @@
 ./poc_all/other/evaluate-b11f2ad4-5a89-4387-a307-350cead20491.yaml
 ./poc_all/other/evaluate-b11f2ad4-5a89-4387-a307-350cead20491_1.yaml
 ./poc_all/other/evaluate-variables.yaml
+./poc_all/other/evaluate-variables_1.yaml
 ./poc_all/other/evaluate.yaml
 ./poc_all/other/evaluate_1.yaml
 ./poc_all/other/evangtermine-b6911150ebf120a31138d52079e49e7d.yaml
@@ -761636,6 +761677,7 @@
 ./poc_all/other/export_users_to_csv-7fc72cff-b708-4fa2-a734-481446641a61.yaml
 ./poc_all/other/export_users_to_csv-7fc72cff-b708-4fa2-a734-481446641a61_1.yaml
 ./poc_all/other/exported-response-vars.yaml
+./poc_all/other/exported-response-vars_1.yaml
 ./poc_all/other/exports-and-reports-94039fda9d0f7d44d90111c7b7a1acdc.yaml
 ./poc_all/other/exports-and-reports.yaml
 ./poc_all/other/exports-and-reports_1.yaml
@@ -783442,6 +783484,7 @@
 ./poc_all/other/metadata-alibaba_3_1.yaml
 ./poc_all/other/metadata-alibaba_4.yaml
 ./poc_all/other/metadata-alibaba_5.yaml
+./poc_all/other/metadata-alibaba_6.yaml
 ./poc_all/other/metadata-azure-8813.yaml
 ./poc_all/other/metadata-azure-8813_1.yaml
 ./poc_all/other/metadata-azure-8814.yaml
@@ -783459,6 +783502,7 @@
 ./poc_all/other/metadata-azure_5.yaml
 ./poc_all/other/metadata-azure_5_1.yaml
 ./poc_all/other/metadata-azure_6.yaml
+./poc_all/other/metadata-azure_7.yaml
 ./poc_all/other/metadata-hetzner-8822.yaml
 ./poc_all/other/metadata-hetzner-8822_1.yaml
 ./poc_all/other/metadata-hetzner-8823.yaml
@@ -783476,6 +783520,7 @@
 ./poc_all/other/metadata-hetzner_4_1.yaml
 ./poc_all/other/metadata-hetzner_5.yaml
 ./poc_all/other/metadata-hetzner_6.yaml
+./poc_all/other/metadata-hetzner_7.yaml
 ./poc_all/other/metadata-openstack-8825.yaml
 ./poc_all/other/metadata-openstack-8825_1.yaml
 ./poc_all/other/metadata-openstack-8825_2.yaml
@@ -783496,6 +783541,7 @@
 ./poc_all/other/metadata-openstack_6.yaml
 ./poc_all/other/metadata-openstack_7.yaml
 ./poc_all/other/metadata-openstack_8.yaml
+./poc_all/other/metadata-openstack_9.yaml
 ./poc_all/other/metadata-seo.yaml
 ./poc_all/other/metadata-seo_1.yaml
 ./poc_all/other/metadata-service-alibaba.yaml
@@ -785477,6 +785523,7 @@
 ./poc_all/other/mx-fingerprint_5.yaml
 ./poc_all/other/mx-fingerprint_6.yaml
 ./poc_all/other/mx-fingerprint_7.yaml
+./poc_all/other/mx-fingerprint_8.yaml
 ./poc_all/other/mx-time-zone-clocks-7bd50b385bef7806671d58586b378e1f.yaml
 ./poc_all/other/mx-time-zone-clocks-951c630bb8acde75722e4b074bcd4f3f.yaml
 ./poc_all/other/mx-time-zone-clocks.yaml
@@ -786024,6 +786071,7 @@
 ./poc_all/other/nameserver-fingerprint_5.yaml
 ./poc_all/other/nameserver-fingerprint_6.yaml
 ./poc_all/other/nameserver-fingerprint_7.yaml
+./poc_all/other/nameserver-fingerprint_8.yaml
 ./poc_all/other/nanosupport-2304b37c15b36748f23b406ac8ba131b.yaml
 ./poc_all/other/nanosupport-d5a0483c-e7f9-4304-8997-e590023780e8.yaml
 ./poc_all/other/nanosupport-e773444a71d90d080dc294cc6801969f.yaml
@@ -795565,6 +795613,7 @@
 ./poc_all/other/ptr-fingerprint_5.yaml
 ./poc_all/other/ptr-fingerprint_6.yaml
 ./poc_all/other/ptr-fingerprint_7.yaml
+./poc_all/other/ptr-fingerprint_8.yaml
 ./poc_all/other/ptr.yaml
 ./poc_all/other/ptypeconverter-d3c26454-a91d-4141-9b31-5c902c5e8eec.yaml
 ./poc_all/other/ptypeconverter-de0336e587f9f6b9a860440eebc3c601.yaml
@@ -813463,6 +813512,7 @@
 ./poc_all/other/txt-fingerprint_5.yaml
 ./poc_all/other/txt-fingerprint_6.yaml
 ./poc_all/other/txt-fingerprint_7.yaml
+./poc_all/other/txt-fingerprint_8.yaml
 ./poc_all/other/txt.yaml
 ./poc_all/other/tydskrif-65ea592e-3340-4559-8b6e-871a4e603296.yaml
 ./poc_all/other/tydskrif.yaml
@@ -832607,6 +832657,7 @@
 ./poc_all/remote_code_execution/vercel-takeover_2.yaml
 ./poc_all/remote_code_execution/vercel-takeover_3.yaml
 ./poc_all/remote_code_execution/vercel-takeover_4.yaml
+./poc_all/remote_code_execution/vercel-takeover_5.yaml
 ./poc_all/remote_code_execution/visual-tools-dvr-rce-11030.yaml
 ./poc_all/remote_code_execution/visual-tools-dvr-rce-11030_1.yaml
 ./poc_all/remote_code_execution/visual-tools-dvr-rce-11032.yaml
@@ -862980,6 +863031,7 @@
 ./poc_all/subdomain_takeover/elasticbeantalk-takeover_2.yaml
 ./poc_all/subdomain_takeover/elasticbeantalk-takeover_3.yaml
 ./poc_all/subdomain_takeover/elasticbeantalk-takeover_4.yaml
+./poc_all/subdomain_takeover/elasticbeantalk-takeover_5.yaml
 ./poc_all/subdomain_takeover/facebook-takeover.yaml
 ./poc_all/subdomain_takeover/fastly-takeover-7429.yaml
 ./poc_all/subdomain_takeover/fastly-takeover-7429_1.yaml
@@ -863349,6 +863401,7 @@
 ./poc_all/subdomain_takeover/landingi-takeover_1.yaml
 ./poc_all/subdomain_takeover/landingi-takeover_2.yaml
 ./poc_all/subdomain_takeover/landingi-takeover_3.yaml
+./poc_all/subdomain_takeover/landingi-takeover_4.yaml
 ./poc_all/subdomain_takeover/launchrock-takeover-8602.yaml
 ./poc_all/subdomain_takeover/launchrock-takeover-8602_1.yaml
 ./poc_all/subdomain_takeover/launchrock-takeover-8603.yaml
@@ -863613,6 +863666,7 @@
 ./poc_all/subdomain_takeover/smartling-takeover.yaml
 ./poc_all/subdomain_takeover/smartling-takeover_1.yaml
 ./poc_all/subdomain_takeover/smartling-takeover_2.yaml
+./poc_all/subdomain_takeover/smartling-takeover_3.yaml
 ./poc_all/subdomain_takeover/smugmug-takeover-10337.yaml
 ./poc_all/subdomain_takeover/smugmug-takeover-10337_1.yaml
 ./poc_all/subdomain_takeover/smugmug-takeover-10338.yaml
