@@ -212828,6 +212828,7 @@
 ./poc_all/cve/CVE-2021-24169_98.yaml
 ./poc_all/cve/CVE-2021-24169_99.yaml
 ./poc_all/cve/CVE-2021-24170-374448137d638cdf40c2f411efbe809a.yaml
+./poc_all/cve/CVE-2021-24170-metronet_profile_picture-6535f932-3aa4-4686-adf6-4e7a1f494e02.yaml
 ./poc_all/cve/CVE-2021-24170-users_profile_picture-6535f932-3aa4-4686-adf6-4e7a1f494e02.yaml
 ./poc_all/cve/CVE-2021-24170-users_profile_picture-6535f932-3aa4-4686-adf6-4e7a1f494e02_1.yaml
 ./poc_all/cve/CVE-2021-24170.yaml
@@ -592867,6 +592868,7 @@
 ./poc_all/cve/CVE-2025-1025_98.yaml
 ./poc_all/cve/CVE-2025-1025_99.yaml
 ./poc_all/cve/CVE-2025-10268-printcart_integration-0c984d61-df91-411b-a2b3-f816b0ff80ee.yaml
+./poc_all/cve/CVE-2025-10268-printcart_integration-0c984d61-df91-411b-a2b3-f816b0ff80ee_1.yaml
 ./poc_all/cve/CVE-2025-10269-spirit_framework-38391221-c435-4672-809a-ebabf639c9bb.yaml
 ./poc_all/cve/CVE-2025-10269-spirit_framework-38391221-c435-4672-809a-ebabf639c9bb_1.yaml
 ./poc_all/cve/CVE-2025-1028-contact_manager-b6f51a8e-4a59-4b64-b0c6-2ce3933a1df5.yaml
@@ -648323,6 +648325,7 @@
 ./poc_all/cve/CVE-2025-57916-wp_system_info-862f331d-4bb9-4249-a224-3eee4802ee6f.yaml
 ./poc_all/cve/CVE-2025-57917-printcart_integration-4e4f0275-7689-4b72-9761-45534f9c706d.yaml
 ./poc_all/cve/CVE-2025-57917-printcart_integration-4e4f0275-7689-4b72-9761-45534f9c706d_1.yaml
+./poc_all/cve/CVE-2025-57917-printcart_integration-4e4f0275-7689-4b72-9761-45534f9c706d_2.yaml
 ./poc_all/cve/CVE-2025-57918-linkedinclude-1f467dde-5b62-407e-bedb-9836630eaabe.yaml
 ./poc_all/cve/CVE-2025-57919-conveythis_translate-391f76a1-098b-4b88-be71-4270d9942c66.yaml
 ./poc_all/cve/CVE-2025-57919-conveythis_translate-391f76a1-098b-4b88-be71-4270d9942c66_1.yaml
@@ -846735,6 +846738,7 @@
 ./poc_all/sql/CVE-2025-10493-chained_quiz-1d8f6965-1fe3-4f24-bd6b-9026e91bc5db.yaml
 ./poc_all/sql/CVE-2025-1061-nextend_social_login_pro-6494e54c-db04-41f9-8b91-6ad12528cf01.yaml
 ./poc_all/sql/CVE-2025-1119-simply_schedule_appointments-1be557db-daa8-4d86-819a-462f29da884b.yaml
+./poc_all/sql/CVE-2025-11455-wp_retina_2x-adb730d0-1394-4716-bddd-efa55d6e4bf3.yaml
 ./poc_all/sql/CVE-2025-12074-context_blog-25552fdb-c55b-4390-a614-7c007c5fe7b1.yaml
 ./poc_all/sql/CVE-2025-12473-rometheme_for_elementor-fb1dbbec-c8c0-4934-ba07-b5b188886bac.yaml
 ./poc_all/sql/CVE-2025-12656-wpvivid_backuprestore-2f5962e5-3dc7-4f93-889c-d5e3530c7dba.yaml
